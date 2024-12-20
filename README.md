@@ -155,3 +155,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Django](https://www.djangoproject.com/) for the backend framework
 - [React](https://reactjs.org/) for the frontend framework
 - [Tailwind CSS](https://tailwindcss.com/) for styling
+
+## Result Screenshot 
+
+![648dc747-8d03-45c8-a349-3c4f8dd82f8e](https://github.com/user-attachments/assets/97fd2abf-e1aa-4d67-8c29-0793cb763814)
+
+![109f4ebd-33b6-4186-a9fa-9c25d1903f36](https://github.com/user-attachments/assets/7f04a9bc-8c98-4043-b65d-faef5670ed07)
+
